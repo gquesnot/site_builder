@@ -22,3 +22,5 @@ yarn-error.log
 /storage/debugbar/
 /storage/framework/
 /storage/templates/
+composer.lock
+package-lock.json

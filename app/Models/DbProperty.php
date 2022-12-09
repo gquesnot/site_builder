@@ -19,7 +19,7 @@ use Illuminate\Support\Arr;
  * @property int $model_id
  * @property PropertyType $type
  * @property string $name
- * @property $options
+ * @property PropertyOptions $options
  * @property string|null $default
  * @property int|null $foreign_model_id
  * @property-read \App\Models\BaseCast|null $cast
